@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dgb:home|Door43 (dgb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dgb|d43-dgb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dgb/archive/master.zip|d43-dgb.zip]]
+
+**Recent Changes**
+{{changes>ns = dgb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dgb|Ethnologue data]]
+
